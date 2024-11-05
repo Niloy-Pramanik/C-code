@@ -1,0 +1,1 @@
+sing_ch>='a' && sing_ch<='z'
